@@ -12,7 +12,6 @@
 - MySQL
 - JPA and Hibernate
 - Maven
-- Stripe API for payments
 
 ## Description:
 
