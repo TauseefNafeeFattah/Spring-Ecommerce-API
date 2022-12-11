@@ -51,7 +51,6 @@ There are endpoints for Users(Sellers, Buyers), their addresses, their interacti
 |    `/users/id`    |    `GET`    |                     Call the API with the provided id in the url.                      |                                  Returns the entire user details except private details like passwords.                                   |
 |    `/users/id`    |   `PATCH`   |  Call the API with the provided id in the url and the details that are to be changed.  |                                  Returns the url to recieve the updated users details.                                   |
 |    `/users/id`    |  `DELETE`   |                     Call the API with the provided id in the url.                      |              Deletes the user from the collection               |
-
 |    `/users/id/addresses`    |  `GET`   |                     Call the API with the provided id in the url.                      |              Returns all the address associated with the user.               |
 |    `/users/{d/addresses`    |  `POST`   |                     Call the API with the provided id in the url and the the details of the address (addressType, country, city, streetAddress1, streetAddress2 (optional), postalCode).                      |              Creates an address in the collection               |
 |    `/users/userId/addresses/addressId`    |  `GET`   |                     Call the API with the provided user id and address id in the url.                      |              Returns the address details of the specified address id.            |
