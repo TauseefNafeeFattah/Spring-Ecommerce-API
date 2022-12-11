@@ -16,7 +16,7 @@
 
 ## Description:
 
-There are endpoints for Users(Sellers, Buyers), their addresses, their interaction with Products and Carts.
+This is an ecommerce api. There are endpoints for User roles, Address types, Users(Sellers, Buyers), Users Addresses, Products, Product Categories, Tags, Discounts, and Carts.
 
 ## Endpoints:
 
@@ -119,4 +119,4 @@ There are endpoints for Users(Sellers, Buyers), their addresses, their interacti
 
 
 
-## Database Schema:
+## Database Schema
