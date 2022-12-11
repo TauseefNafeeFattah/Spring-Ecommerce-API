@@ -119,3 +119,4 @@ This is an ecommerce api. There are endpoints for User roles, Address types, Use
 
 
 ## Database Schema
+![Ecommerce_API](https://user-images.githubusercontent.com/57330415/206936680-13584c1d-9a3a-4a44-8f5f-fcba780d16d1.jpeg)
