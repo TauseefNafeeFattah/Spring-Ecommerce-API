@@ -14,6 +14,7 @@
 - JPA and Hibernate
 - Maven
 - Postman
+- JUnit
 
 ## Description:
 
