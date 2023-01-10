@@ -8,10 +8,12 @@
 
 ## Made with:
 
+- Java
 - Spring and SpringBoot
 - MySQL
 - JPA and Hibernate
 - Maven
+- Postman
 
 ## Description:
 
